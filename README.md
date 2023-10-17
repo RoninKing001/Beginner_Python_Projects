@@ -175,7 +175,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/roninking001)
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ronin-king/)
 * [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)](https://roninking.hashnode.dev/)
-* 
 ([Back to Top](#back-to-top))
 
 
