@@ -1,8 +1,9 @@
-### ******************** The Simple Password Generator ********************
+### ******************** The Hangman Game ********************
 ### ********** About this Project
 """
-This is a quick fun project to play flip the coin, Heads or Tails.
-It's also designed to reinforce your knowledge on how to use the random module.
+This is a fun project Hangman.
+It's also designed to reinforce your knowledge on how to use the random module, the
+len function, empty list and more.
 """
 ### ********** Code begins here
 
@@ -14,14 +15,9 @@ from hangman_art import stages
 
 """
 
-The string module in Python is a built-in module that provides a collection of string constants that can be useful 
-for various tasks, including generating passwords. It's often used in conjunction with other modules like random to 
-create random passwords.
-
-Using this module makes it easy for you, so you don't have to create variables with all letter, digits and symbols.
-
-In a later project I will include an updated version of the password generator that includes the secret module.
-This module is better for password generators. 
+The imports used above that are below the import random is for importing variables from the other files within the
+main folder, these file have the art and word lists in them. This method is used to make your code more readable instead
+of adding hundred line of code and making everything more difficult to read.
 
 """
 
